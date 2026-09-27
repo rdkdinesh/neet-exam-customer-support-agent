@@ -1,0 +1,11 @@
+autogen-agentchat
+autogen-ext[openai]
+python-dotenv
+streamlit
+tavily-python
+openai
+
+deepeval
+pytest
+deepeval
+portalocker[win32]

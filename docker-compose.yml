@@ -1,0 +1,19 @@
+services:
+
+  neet-ai-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: neet-exam-customer-support-agent
+
+    ports:
+      - "8501:8501"
+
+    env_file:
+      - .env
+
+    volumes:
+      - ./generated:/app/generated
+
+    restart: unless-stopped

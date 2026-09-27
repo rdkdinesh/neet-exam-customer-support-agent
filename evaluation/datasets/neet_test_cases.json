@@ -1,0 +1,42 @@
+[
+  {
+    "input": "What is NEET UG?",
+    "expected_output": "NEET UG is the National Eligibility cum Entrance Test for undergraduate medical education admissions in India.",
+    "category": "general"
+  },
+  {
+    "input": "What subjects are included in NEET UG?",
+    "expected_output": "NEET UG covers Physics, Chemistry and Biology, with Biology comprising Botany and Zoology.",
+    "category": "exam_pattern"
+  },
+  {
+    "input": "What is the eligibility criteria for NEET UG?",
+    "expected_output": "The answer should explain the applicable NEET UG eligibility requirements and should rely on current official NTA or Government of India information.",
+    "category": "eligibility"
+  },
+  {
+    "input": "What documents are generally required for NEET UG application?",
+    "expected_output": "The answer should describe the documents or information required during the NEET UG application process and should rely on the applicable official NTA instructions.",
+    "category": "application"
+  },
+  {
+    "input": "How can I download my NEET UG admit card?",
+    "expected_output": "The answer should explain the official process for downloading the NEET UG admit card from the NTA/NEET website.",
+    "category": "admit_card"
+  },
+  {
+    "input": "How is NEET UG counselling conducted?",
+    "expected_output": "The answer should explain the relevant NEET UG counselling process and distinguish between the responsible counselling authorities where appropriate.",
+    "category": "counselling"
+  },
+  {
+    "input": "What is the NEET UG syllabus?",
+    "expected_output": "The answer should describe the current NEET UG syllabus and should use official information when discussing the current syllabus.",
+    "category": "syllabus"
+  },
+  {
+    "input": "How can I check my NEET UG result?",
+    "expected_output": "The answer should explain how candidates can check their NEET UG result through the official NTA/NEET result mechanism.",
+    "category": "result"
+  }
+]
